@@ -1,4 +1,4 @@
-# EasyPower 1.0.0
+# EasyPower 1.1.0
 
 A simple power tray icon for Linux desktops (GTK3 + UPower + power-profiles-daemon). Replaces Cinnamon's power applet.
 
